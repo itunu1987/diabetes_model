@@ -1,0 +1,12 @@
+# configuration for a flask app
+version: '3'
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./:/usr/src/app/
+    environment:
+      FLASK_APP: app.py
+  

@@ -1,0 +1,11 @@
+Dataset URL
+- UCI
+https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
+- Kaggle 
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?resource=download&select=diabetes_binary_health_indicators_BRFSS2015.csv
+
+Data Description
+https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook
+
+AGEG5YR
+https://www.icpsr.umich.edu/web/NAHDAP/studies/34085/datasets/0001/variables/AGEG5YR?archive=NAHDAP
