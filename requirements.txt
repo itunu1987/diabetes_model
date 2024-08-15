@@ -1,0 +1,11 @@
+flask
+joblib
+xgboost
+pandas
+matplotlib
+scikit-learn
+imbalanced-learn
+ucimlrepo
+fastapi
+uvicorn
+joblib
